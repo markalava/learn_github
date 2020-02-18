@@ -1,3 +1,3 @@
 greetings <- function() {
-  cat("Hello World!")
+  cat("Hello UN!")
 }
