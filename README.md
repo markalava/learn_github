@@ -1,2 +1,3 @@
-# learn_github
-Demonstration repo for learning GitHub
+# Learn GitHub
+
+- Demonstration repo for learning GitHub.
